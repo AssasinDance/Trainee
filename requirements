@@ -1,5 +1,4 @@
 django
 pillow
 numpy
---upgrade pip
 opencv-python
