@@ -1,4 +1,4 @@
 django
 pillow
 numpy
-opencv
+opencv-python
